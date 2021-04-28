@@ -1,0 +1,51 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+
+
+.realizar {
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    padding: 7px 40px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-size: 15px;
+    font-style:oblique;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ }
+
+.caixas {
+    border-color: rgb(0, 0, 0);
+    padding: 10px 32px;
+    margin: 4px 2px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.trocar{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    padding: 1px 3px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-style:oblique;
+    
+}
